@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594646526138",
+    "project_id": "firestore-feeef",
+    "storage_bucket": "firestore-feeef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594646526138:android:fb44d4ee102a0950903a83",
+        "android_client_info": {
+          "package_name": "com.example.firebase_firestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594646526138-66ksrtdihese8kbmd5viqhvii409qln1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebase_firestore",
+            "certificate_hash": "4f5c94dd5de5f5f6a989903b7c68d92915b2e28f"
+          }
+        },
+        {
+          "client_id": "594646526138-g7jcngcbb4o5v0hpv5pi9e3v4fpg0l2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCKW4IpEKzgUs9QpXKIAIh7hs5sJQYF0Ps"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594646526138-g7jcngcbb4o5v0hpv5pi9e3v4fpg0l2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
